@@ -1,0 +1,22 @@
+{
+  "name": "bitecs-rl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "bitecs": "0.3.38",
+    "parcel-bundler": "^1.6.1",
+    "rot-js": "2.2.0"
+  },
+  "devDependencies": {
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
